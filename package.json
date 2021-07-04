@@ -1,7 +1,7 @@
 {
   "name": "arduino-atom-alt",
   "main": "./lib/arduino",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "description": "Fork of Ido's Arduino tools for Atom, trying to get it to work",
   "keywords": [
     "arduino"
