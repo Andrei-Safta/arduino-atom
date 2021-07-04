@@ -1,15 +1,15 @@
 {
-  "name": "arduino-atom",
+  "name": "arduino-atom-alt",
   "main": "./lib/arduino",
-  "version": "0.1.0",
-  "description": "Arduino tools for Atom",
+  "version": "0.1.1",
+  "description": "Fork of Ido's Arduino tools for Atom, trying to get it to work",
   "keywords": [
     "arduino"
   ],
   "activationCommands": {
     "atom-workspace": "arduino:toggle"
   },
-  "repository": "https://github.com/ido-ran/arduino-atom",
+  "repository": "https://github.com/Andrei-Safta/arduino-atom",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
